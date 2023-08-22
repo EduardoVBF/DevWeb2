@@ -1,4 +1,4 @@
-namespace ex04 {
+namespace ex02 {
     let trab: number;
     let aval: number;
     let exam: number;

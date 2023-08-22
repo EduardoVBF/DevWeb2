@@ -19,9 +19,4 @@ namespace ex03 {
     } else if (v4 < v1) {
         console.log (`Os valores em ordem decrescente são: ${v3}, ${v2}, ${v1} e ${v4}.`)
     };
-
-
-    
-
-
 }
