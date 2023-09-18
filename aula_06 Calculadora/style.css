@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(46, 45, 45);
+}
+
+.calculadora {
+    font-size: 1,5em;
+}
+
+.display {
+    padding: 2px;
+    width: 594px;
+    font-size: 4em;
+    text-align: right;
+    background-color: rgb(220, 233, 233);
+}
+
+.linhas > button {
+    width: 150px;
+    height: 150px;
+    font-size: 4em;
+}
+
+.numeral {
+    background-color:  rgb(255, 204, 0);
+    color: white;
+}
+
+.numeral:hover {
+    background-color: rgb(236, 230, 132) ;
+    color: black;
+}
+
+.operador {
+    background-color:  rgb(26, 98, 36);
+    color: white;
+}
+
+.operador:hover {
+    background-color: rgb(152, 225, 79) ;
+    color: black;
+}
+
+.resultado {
+    background-color:  rgb(36, 50, 83);
+    color: white;
+}
+
+.resultado:hover {
+    background-color: rgb(131, 156, 224);
+    color: rgb(0, 0, 0);
+}
